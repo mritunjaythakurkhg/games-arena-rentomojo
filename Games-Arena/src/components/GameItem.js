@@ -1,6 +1,4 @@
-/**
- * Created by manish on 21/1/18.
- */
+
 import React, {Component} from 'react';
 import {Card, CardHeader, CardText} from 'material-ui/Card';
 import LinearProgress from 'material-ui/LinearProgress'
